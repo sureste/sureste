@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-![WhatsApp Image 2022-06-21 at 4 54 26 PM](https://user-images.githubusercontent.com/96991022/174903579-6b95d3c5-b269-49f2-9ab6-7db04a51ec2d.jpeg)
+![hola-soy-toni](https://user-images.githubusercontent.com/96991022/174915067-9198ca43-58d8-42be-910a-d2a151098424.jpg)
+
 
 Soy una persona apasionada por el mundo de la programación, me gusta mucho poder crear soluciones y resolver problemas, siempre estoy intentando aprender algo nuevo, o perfeccionar mis habilidades. Considero que haber estudiado música durante muchos años me dio mucha disciplina y dedicacion, por lo que disfruto mucho todos los procesos de aprendizaje y siempre afronto los desafios de la manera mas positiva posible, con una cuota de creatividad extra. Tengo mucha facilidad para trabajar en equipo, valoro y respeto mucho el trabajo de los demas y tengo facilidad para crear confianza y camaraderia.
 
