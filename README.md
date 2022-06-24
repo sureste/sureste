@@ -4,10 +4,12 @@
 ![hola-soy-toni](https://user-images.githubusercontent.com/96991022/174915067-9198ca43-58d8-42be-910a-d2a151098424.jpg)
 
 
-Soy una persona apasionada por el mundo de la programación, me gusta mucho poder crear soluciones y resolver problemas, siempre estoy intentando aprender algo nuevo, o perfeccionar mis habilidades. Considero que haber estudiado música durante muchos años me dio mucha disciplina y dedicacion, por lo que disfruto mucho todos los procesos de aprendizaje y siempre afronto los desafios de la manera mas positiva posible, con una cuota de creatividad extra. Tengo mucha facilidad para trabajar en equipo, valoro y respeto mucho el trabajo de los demas y tengo facilidad para crear confianza y camaraderia.
+I'm passionate about the coding world, I love to make creative and simple solutions to problems, and I'm always learning something new or mastering my abilities, I used to study filmmaking and I consider that I got lots of discipline and gotten used to working in a team under lots of pressure, I'm sociable and easy to work with.
+I have a great capacity to learn new things in a short amount of time and learn by myself. 
+Also, I confront the problems with the best attitude possible.
 
 
-Tecnologías:
+Tech skills:
 
 
 ➡Frontend:
@@ -20,10 +22,10 @@ js:Node, Express
 🛢Base de datos:
 PostgreSQL
 
-💬 Podes preguntarme acerca de: JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequelize.
+💬 You can ask me about: JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequelize.
 
 
-<h3 align="left">Contacto:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jose-antonio-guti%C3%A9rrez-madrigal-b17669185/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jose-antonio-guti%C3%A9rrez-madrigal-b17669185/" height="30" width="40" /></a>
 </p>
